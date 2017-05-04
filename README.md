@@ -1,0 +1,2 @@
+# myhapiproject
+REST Hapi Example
